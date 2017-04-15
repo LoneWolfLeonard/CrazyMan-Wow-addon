@@ -1,0 +1,24 @@
+## Interface: 70200
+## X-Min-Interface: 70200
+## Title: CrazyMan
+## Author: Leonard Treman
+## Email: warcrftaddict@gmail.com
+## URL: N/A.com
+## Notes: This addon will either help you rp as a crazy person or add some spice into your gameplay with a few unpredictible yet amazing sound elements.
+## Version: 1.3
+
+Frostmourne.ogg
+Siren.ogg
+DeathLaugh.ogg
+Kira.ogg
+Snapped.ogg
+Frame.xml
+Doby.ogg
+America.ogg
+Taps.ogg
+Mail.ogg
+Brave.ogg
+Back.ogg
+Victory.ogg
+ZeldaBattle.ogg
+Shop.ogg

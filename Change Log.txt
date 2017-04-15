@@ -1,0 +1,2 @@
+Changed interface number to 70100 so that it will work with legion. - March 12th 2017
+Changed interface number to 70200 so that it will work with new patch. - April 15th 2017
