@@ -1,2 +1,12 @@
-Changed interface number to 70100 so that it will work with legion. - March 12th 2017
-Changed interface number to 70200 so that it will work with new patch. - April 15th 2017
+Get an achievement, get mail, use the AH, there is a sound for that! 
+
+Added: -I'll be back for /camp 
+-Braveheart for prebg. 
+-Taps for when you die. 
+-FF7 Fanfare for achievement completions. 
+-Zelda Battle Sounds 
+-Zelda Shop Sound for the AH 
+-Team America Theme on quest completion 
+-Aol mail sound when you get mail and soooo much more!
+
+updated on 4-15-2017
